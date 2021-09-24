@@ -18,11 +18,6 @@ About Me :
   <br>
 </h2> 
 
-<h3>📄 Favorite Language:</h3>
-<p>
-  <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?    logo=python&style=for-the-badge&logoColor=yellow"/></a> 
-</p>
-
 <h2 align="center">
 <br><img src="https://i.imgur.com/aSH9QCx.gif" width="500"><br>
 </h2> 
