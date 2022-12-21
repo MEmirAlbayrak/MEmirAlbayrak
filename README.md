@@ -13,7 +13,7 @@ About Me :
 ✨ Competitive
 ✨ Music Lover 
 ✨ Gaming Addict
-✨ Anime Watcher ✨
+✨ Anime Enthusiast ✨
  <br> 
   <br>
 </h2> 
